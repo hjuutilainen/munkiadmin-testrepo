@@ -34,6 +34,8 @@
 			<string>Firefox</string>
 			<key>CFBundleShortVersionString</key>
 			<string>20.0</string>
+			<key>CFBundleVersion</key>
+			<string>2013.3.26</string>
 			<key>minosversion</key>
 			<string>10.6</string>
 			<key>path</key>
